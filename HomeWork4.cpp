@@ -1,7 +1,7 @@
-﻿// HomeWork6.cpp: определяет точку входа для приложения.
+﻿// HomeWork4.cpp: определяет точку входа для приложения.
 //
 
-#include "HomeWork6.h"
+#include "HomeWork4.h"
 
 using namespace std;
 
